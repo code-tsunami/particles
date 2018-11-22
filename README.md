@@ -2,7 +2,7 @@
 
 Playing with OpenCL and OpenGL to create a particle system utilizing a collection of 3D particles. Also added two sphere barriers for the particles to bounce off of and adjusted the particles' coloring based on their velocity and proximity to the barriers. 
 
-*NOTE*: There appear to be incompatibilities with later versions of MacOS (i.e. MacOS Mojave) and the GLUI framework. For that reason, I have provided the particles executable in this repo. In the event that you have a MacOS comp. and have MacOS Mojave installed, skip to "Installing".
+*NOTE*: There appear to be incompatibilities with later versions of MacOS (i.e. MacOS Mojave) and the GLUI framework. For that reason, I have provided the particles executable in this repo. In the event that you're running MacOS Mojave, skip to "Installing".
 
 ![](particles.gif)
 
