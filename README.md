@@ -14,16 +14,16 @@ These instructions will get you a local copy of the project up and running on yo
 *These are specifically for MacOS -- there should not be any compatibility issues for Windows or Linux OS.*
 
 1. Install the latest version of XCode.
-2. Install [homebrew](https://brew.sh/).
-3. Install the latest version of `clang` that works with OpenMP:
+1. Install [homebrew](https://brew.sh/).
+1. Install the latest version of `clang` that works with OpenMP:
 ```sh
 brew install llvm
 ```
-*OR* if you already have it installed and just need to upgrade:
+*OR* (if you already have it installed and just need to upgrade):
 ```sh
 brew upgrade llvm
 ```
-4. Install the [GLUI framework](https://lukecyca.com/2008/glui-235-framework-for-mac-os-x.html)
+1. Install the [GLUI framework](https://lukecyca.com/2008/glui-235-framework-for-mac-os-x.html)
 
 ### Installing
 
