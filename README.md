@@ -23,7 +23,7 @@ brew install llvm
 ```sh
 brew upgrade llvm
 ```
-1. Install the [GLUI framework](https://lukecyca.com/2008/glui-235-framework-for-mac-os-x.html)
+4. Install the [GLUI framework](https://lukecyca.com/2008/glui-235-framework-for-mac-os-x.html)
 
 ### Installing
 
