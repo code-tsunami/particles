@@ -350,7 +350,7 @@ void Display( )
         glCallList( AxesList );
 
     // ****************************************
-    // Here is where you draw the current state of the particles:
+    // Drawing the current state of the particles:
     // ****************************************
 
     glBindBuffer( GL_ARRAY_BUFFER, hPobj );
