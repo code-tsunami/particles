@@ -38,20 +38,13 @@ make # skip this step if you're running MacOS Mojave
 particles # a GUI should pop up with controls; press "Go!"
 ```
 
-<!-- ## Built With
-
-* [text](http://somelink.com) - what it was -->
-
-## Authors
+## Author
 
 * **Sonam Kindy** - [code-tsunami](https://github.com/code-tsunami)
-* **Mike Bailey** - *template code* - [mjb](http://web.engr.oregonstate.edu/~mjb/WebMjb/mjb.html)
 
-<!-- ## Acknowledgments (Resources)
+## Acknowledgments
 
-* Inspiration
-* Code used
-* etc. -->
+* [Mike Bailey](http://web.engr.oregonstate.edu/~mjb/WebMjb/mjb.html) for the base template code
 
 ## License
 
