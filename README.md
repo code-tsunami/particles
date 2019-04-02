@@ -40,7 +40,7 @@ particles # a GUI should pop up with controls; press "Go!"
 
 ## Author
 
-* **Sonam Kindy** - [code-tsunami](https://github.com/code-tsunami)
+* **Sonam Kindy** - [sonamdkindy](https://github.com/sonamdkindy)
 
 ## Acknowledgments
 
